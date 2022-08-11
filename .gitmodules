@@ -1,0 +1,6 @@
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = git@github.com:Amaty119/odin-recipes.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = git@github.com:Amaty119/odin-landing-page.git
