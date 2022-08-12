@@ -1,0 +1,135 @@
+body {
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 13vh 50vh;
+    min-height: 60vh;
+    border: 10px solid;  
+    background-image: url(images/cherryblossom.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #F6F6F6;
+    background-color: #FFC7C7;
+    font-size: 32px;
+    font-weight: bold;
+    gap: 16px;
+    padding: 24px;
+}
+
+.m1 {
+    background-color: #FFE2E2;
+    padding: 24px;
+}
+
+.m1header {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 16px;
+}
+
+.m1text {
+    padding: 16px;
+}
+
+.m1subheader {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 16px 16px 6px 16px;
+}
+
+li {
+    padding: 10px;
+}
+
+
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
+a:hover {
+    color: steelblue;
+}
+
+.title {
+    background-color: #FFE2E2;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.m2 {
+    background-color: #FFE2E2;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 10vh;
+}
+
+.m2 p {
+    color: #FFE2E2;
+    font-weight: bold;
+}
+
+.m2 img {
+    max-width: 25%;
+    height: auto;
+    max-height: 25%;
+    transition: transform .3s;
+    margin: 0px;
+    
+}
+
+.m2img:hover img {
+    transform: translateY(-20px);
+    padding-bottom: 0px;
+}
+
+.m2img:hover p {
+    color: black;
+    transform: translateY(-20px);
+}
+
+.space {
+    background-color: #FFE2E2;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.footer {
+    margin-top: auto;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #F6F6F6;
+    background-color: #8785A2;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.footer img {
+    max-width: 350px;
+    transition: transform .3s;
+}
+
+
+.footer img:hover  {
+    transform: scale(1.05);
+}
