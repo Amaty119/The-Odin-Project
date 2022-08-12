@@ -6,9 +6,9 @@ The following repository contains the projects I've completed in [The Odin Proje
 ## Projects
 -[Project: Recipes](https://github.com/Amaty119/odin-recipes)
 
--[Project: Landing Page](https://github.com/Amaty119/odin-recipes)
+-[Project: Landing Page](https://github.com/Amaty119/odin-landing-page)
 
--[Project: Rock Paper Scissors](https://github.com/Amaty119/odin-recipes)
+-[Project: Rock Paper Scissors](https://github.com/Amaty119/odin-rock-paper-scissors)
 
 -[Project: Etch-A-Sketch](#)
 
